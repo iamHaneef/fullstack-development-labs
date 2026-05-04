@@ -46,4 +46,3 @@ Each folder represents a focused concept with implementation to reinforce unders
 - Strong understanding of React fundamentals  
 - Ability to build interactive UI components  
 - Practical experience with hooks and state management  
-- Transition from static UI to dynamic applications  
