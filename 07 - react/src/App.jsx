@@ -1,9 +1,11 @@
-import StopWatch from "./16 - StopWatch ( Task )/StopWatch"
+import ArrayCal from "./17 - UseMemo ( Hooks  )/ArrayCal"
+import FilteredUser from "./17 - UseMemo ( Hooks  )/FilteredUser"
+
 function App() {
 
   return (
     <>
-      <StopWatch />   
+      <FilteredUser />
     </>
   )
 }
