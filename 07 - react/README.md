@@ -39,7 +39,7 @@ Each folder represents a focused concept with implementation to reinforce unders
 | 14 | useContext | Global state |
 | 15 | useRef | DOM references |
 | 16 | Stop Watch | Functional task |
-| 17 | useMemo | Performance optimization with memoization |
+
 
 
 ---
