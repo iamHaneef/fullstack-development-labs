@@ -28,18 +28,18 @@ Each folder represents a focused concept with implementation to reinforce unders
 | 03 | Props | Passing and using props |
 | 04 | Conditional Rendering | Dynamic UI rendering |
 | 05 | Lists | Rendering collections |
-| 06 | onClick Event | Event handling |
-| 07 | useState | State management |
-| 08 | onChange Event | Form inputs |
-| 09 | Color Picker | Interactive UI task |
-| 10 | Update Methods | State updates |
-| 11 | To-Do List | Mini project |
-| 12 | useEffect | Side effects |
-| 13 | Digital Clock | Real-time UI |
-| 14 | useContext | Global state |
-| 15 | useRef | DOM references |
-| 16 | Stop Watch | Functional task |
-| 17 | useMemo | Performance optimization with memoization |
+| 06 | Click Events | Event handling in components |
+| 07 | State Management (useState) | Managing component state |
+| 08 | Input Handling (onChange) | Handling form inputs |
+| 09 | Color Picker (Task) | Interactive UI implementation |
+| 10 | State Updates | Updating and managing state changes |
+| 11 | Todo List (Task) | Building a simple application |
+| 12 | Side Effects (useEffect) | Handling lifecycle and effects |
+| 13 | Digital Clock (Task) | Real-time UI updates |
+| 14 | Context API (useContext) | Managing global state |
+| 15 | Refs (useRef) | DOM access and mutable values |
+| 16 | Stopwatch (Task) | Time-based functionality |
+| 17 | Memoization (useMemo) | Performance optimization techniques |
 
 
 ## 🧠 Key Outcome
