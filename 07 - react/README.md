@@ -36,10 +36,10 @@ Each folder represents a focused concept with implementation to reinforce unders
 | 11 | To-Do List | Mini project |
 | 12 | useEffect | Side effects |
 | 13 | Digital Clock | Real-time UI |
-| 14 | useContext | Global state |
+<!-- | 14 | useContext | Global state |
 | 15 | useRef | DOM references |
 | 16 | Stop Watch | Functional task |
-| 17 | useMemo | Performance optimization with memoization |
+| 17 | useMemo | Performance optimization with memoization | -->
 
 ## 🧠 Key Outcome
 
