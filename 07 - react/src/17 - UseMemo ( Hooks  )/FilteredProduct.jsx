@@ -11,10 +11,15 @@ function FilteredProduct() {
         { id: 3, name: "Headphones", price: 2000, inStock: true },
     ];
 
-    const FilteredProduct = products
-        .filter((products) => products.inStock)
-        .filter((products) => products.name.toLowerCase().includes(search.toLowerCase()))
-        .sort((a, b) => sortOrder === "asc" ? a.price - b.price : b.price - a.price)
+    const FilteredProduct = useMemo(() => {
+        const FilteredProduct = products
+            .filter((products) => products.inStock)
+            .filter((products) => products.name.toLowerCase().includes(search.toLowerCase()))
+            .sort((a, b) => sortOrder === "asc" ? a.price - b.price : b.price - a.price);
+
+        return FilteredProduct;
+    }, [products, search, sortOrder]);
+
 
     return (
         <div>
