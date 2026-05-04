@@ -41,15 +41,9 @@ Each folder represents a focused concept with implementation to reinforce unders
 | 16 | Stop Watch | Functional task |
 | 17 | useMemo | Performance optimization with memoization |
 
-
-
----
-
 ## 🧠 Key Outcome
 
 - Strong understanding of React fundamentals  
 - Ability to build interactive UI components  
 - Practical experience with hooks and state management  
 - Transition from static UI to dynamic applications  
-
----
