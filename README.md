@@ -2,23 +2,31 @@
 
 ## 📌 Overview
 
-A structured, hands-on repository covering full stack web development through practical implementations.  
-Each module focuses on applying concepts using real code across frontend and backend technologies.
+A structured, hands-on repository covering full stack web development through practical implementations across frontend, backend, database integration, and React-based application development.
+
+Each module focuses on learning core concepts through real code, structured exercises, mini projects, and system-oriented implementations.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- HTML5  
-- CSS3 (Flexbox, Grid, Responsive Design)  
-- JavaScript (DOM, Events, Validation)  
-- React.js  
+- HTML5
+- CSS3 (Flexbox, Grid, Responsive Design)
+- Bootstrap
+- JavaScript (DOM, Events, Validation)
+- React.js
+- Formik
+- Ant Design
 
 ### Backend
-- Node.js  
-- Express.js  
-- REST API Development  
+- Node.js
+- Express.js
+- REST API Development
+
+### Database
+- MongoDB
+- Mongoose
 
 ---
 
@@ -26,16 +34,34 @@ Each module focuses on applying concepts using real code across frontend and bac
 
 | Module | Description |
 |--------|------------|
-| 1 - HTML | Semantic structure and forms |
-| 2 - CSS | Layouts, Flexbox, Grid, responsive design |
-| 3 - Bootstrap | UI components and layouts |
-| 4 - JavaScript | DOM, events, validation |
-| 5 - Node.js | Backend fundamentals |
-| 6 - Express | Routing, middleware, APIs |
-| 7 - React | Components, state, forms |
+| 01 - HTML | Semantic structure, forms, and basic web pages |
+| 02 - CSS | Layout systems, Flexbox, Grid, and responsive design |
+| 03 - Bootstrap | Responsive UI components and layouts |
+| 04 - JavaScript | DOM manipulation, events, validation, and logic building |
+| 05 - Node.js | Backend fundamentals and server-side concepts |
+| 06 - Express | Routing, middleware, and REST API development |
+| 07 - React | Components, hooks, state management, and UI development |
+| 08 - MongoDB | Database integration, Mongoose schemas, and CRUD operations |
+
+---
+
+## ⚡ Learning Focus
+
+- Frontend UI development
+- Backend server architecture
+- API integration
+- Database operations
+- Authentication workflows
+- Component-based React development
+- Structured project organization
 
 ---
 
 ## 🚀 How to Run
 
-> Run files inside each module based on the technology used (e.g., `node filename.js` for backend files or open HTML files in a browser).
+### Frontend Modules
+> Open HTML files directly in the browser or run React applications using:
+
+```bash
+npm install
+npm run dev
