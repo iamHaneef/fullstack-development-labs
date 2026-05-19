@@ -17,45 +17,30 @@ function Products() {
     ]);
 
     const handleDelete = useCallback((id) => {
-
-        setProducts(prev =>
-            prev.filter(product => product.id !== id)
-        );
-
-    }, []);
+        setProducts(prev => prev.filter(product => product.id !== id));
+    }, [products]);
 
     const ProductList = useMemo(() => {
 
         console.log("ProductList Rendered");
 
         return (
+            //It's also a jsx value return from useMemo
             <div>
-                {products.map(product => (
+                {products.map((product) => (
                     <div key={product.id}>
                         {product.name}
-
-                        <button
-                            onClick={() => handleDelete(product.id)}
-                        >
-                            Delete
-                        </button>
+                        <button onClick={() => handleDelete(product.id)}>Delete</button>
                     </div>
                 ))}
             </div>
         );
-
     }, [products, handleDelete]);
 
     return (
         <div>
-
-            <input
-                value={search}
-                onChange={(e) => setSearch(e.target.value)}
-                placeholder="Search"
-            />
+            <input value={search} onChange={(e) => e.target.value} placeholder="Search" />
             {ProductList}
-
         </div>
     );
 }
