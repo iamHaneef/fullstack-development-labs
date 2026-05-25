@@ -8,7 +8,7 @@ import Todo from "./20 - Redux Toolkit/02 - Todo Reducer App/Todo";
 function App() {
   return (
     <>
-      <Todo />
+      <Counter />
     </>
   );
 }
