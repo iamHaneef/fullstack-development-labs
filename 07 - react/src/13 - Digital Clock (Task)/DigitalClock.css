@@ -1,24 +1,23 @@
-
-body{
-    margin: 0;
-    height: 100vh;
-    background-image: url("./Clock.jpeg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+body {
+  margin: 0;
+  height: 100vh;
+  background-image: url('./Clock.jpeg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
-.container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
-p{
-    font-family:"Roboto Mono";
-    font-size: 80px;
-    position: relative;
-    right: 250px;    
-    color: rgb(56, 56, 56);
+p {
+  font-family: 'Roboto Mono';
+  font-size: 80px;
+  position: relative;
+  right: 250px;
+  color: rgb(56, 56, 56);
 }
