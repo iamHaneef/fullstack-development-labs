@@ -39,14 +39,6 @@ This includes modules, asynchronous execution, file handling, and basic server c
 - Scope and closures
 - Callbacks and promises
 
-### 6. Express (Basic)
-
-- Creating server
-- Routing
-- Middleware basics
-
----
-
 ## 🛠️ Tech Stack
 
 - Node.js
