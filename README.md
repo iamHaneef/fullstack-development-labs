@@ -11,6 +11,7 @@ Each module focuses on learning core concepts through real code, structured exer
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - HTML5
 - CSS3 (Flexbox, Grid, Responsive Design)
 - Bootstrap
@@ -20,11 +21,13 @@ Each module focuses on learning core concepts through real code, structured exer
 - Ant Design
 
 ### Backend
+
 - Node.js
 - Express.js
 - REST API Development
 
 ### Database
+
 - MongoDB
 - Mongoose
 
@@ -32,16 +35,16 @@ Each module focuses on learning core concepts through real code, structured exer
 
 ## 📂 Modules
 
-| Module | Description |
-|--------|------------|
-| 01 - HTML | Semantic structure, forms, and basic web pages |
-| 02 - CSS | Layout systems, Flexbox, Grid, and responsive design |
-| 03 - Bootstrap | Responsive UI components and layouts |
-| 04 - JavaScript | DOM manipulation, events, validation, and logic building |
-| 05 - Node.js | Backend fundamentals and server-side concepts |
-| 06 - Express | Routing, middleware, and REST API development |
-| 07 - React | Components, hooks, state management, and UI development |
-| 08 - MongoDB | Database integration, Mongoose schemas, and CRUD operations |
+| Module          | Description                                                                        |
+| --------------- | ---------------------------------------------------------------------------------- |
+| 01 - HTML       | Semantic structure, forms, and basic web pages                                     |
+| 02 - CSS        | Layout systems, Flexbox, Grid, and responsive design                               |
+| 03 - Bootstrap  | Responsive UI components and layouts                                               |
+| 04 - JavaScript | DOM manipulation, events, validation, and logic building                           |
+| 05 - Node.js    | Fundamentals, modules, event loop, file handling, and backend development concepts |
+| 06 - Express    | Routing, middleware, and REST API development                                      |
+| 07 - React      | Components, hooks, state management, and UI development                            |
+| 08 - MongoDB    | Database integration, Mongoose schemas, and CRUD operations                        |
 
 ---
 
@@ -60,8 +63,10 @@ Each module focuses on learning core concepts through real code, structured exer
 ## 🚀 How to Run
 
 ### Frontend Modules
+
 > Open HTML files directly in the browser or run React applications using:
 
 ```bash
 npm install
 npm run dev
+```
