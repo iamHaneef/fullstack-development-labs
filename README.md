@@ -35,16 +35,18 @@ Each module focuses on learning core concepts through real code, structured exer
 
 ## 📂 Modules
 
-| Module          | Description                                                                        |
-| --------------- | ---------------------------------------------------------------------------------- |
-| 01 - HTML       | Semantic structure, forms, and basic web pages                                     |
-| 02 - CSS        | Layout systems, Flexbox, Grid, and responsive design                               |
-| 03 - Bootstrap  | Responsive UI components and layouts                                               |
-| 04 - JavaScript | DOM manipulation, events, validation, and logic building                           |
-| 05 - Node.js    | Fundamentals, modules, event loop, file handling, and backend development concepts |
-| 06 - Express    | Routing, middleware, and REST API development                                      |
-| 07 - React      | Components, hooks, state management, and UI development                            |
-| 08 - MongoDB    | Database integration, Mongoose schemas, and CRUD operations                        |
+| Module                    | Description                                                                                                              |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 01 - HTML                 | Semantic structure, forms, and basic web pages                                                                           |
+| 02 - CSS                  | Layout systems, Flexbox, Grid, and responsive design                                                                     |
+| 03 - Bootstrap            | Responsive UI components and layouts                                                                                     |
+| 04 - JavaScript           | DOM manipulation, events, validation, and logic building                                                                 |
+| 05 - Node.js              | Fundamentals, modules, event loop, file handling, and backend development concepts                                       |
+| 06 - Express              | Routing, middleware, and REST API development                                                                            |
+| 07 - React                | Components, hooks, state management, and UI development                                                                  |
+| 08 - MongoDB              | Database integration, Mongoose schemas, and CRUD operations                                                              |
+| 09 - Training Projects    | Frontend layouts, validation, backend services, APIs, and dashboard implementations completed during structured training |
+| 10 - React Data Workbench | Modular React application featuring authentication, mock APIs, data visualization, tables, and dashboard components      |
 
 ---
 
@@ -52,10 +54,11 @@ Each module focuses on learning core concepts through real code, structured exer
 
 - Frontend UI development
 - Backend server architecture
-- API integration
+- REST API development
 - Database operations
 - Authentication workflows
-- Component-based React development
+- React application architecture
+- Data visualization and dashboard development
 - Structured project organization
 
 ---
