@@ -4,7 +4,7 @@
 
 A structured, hands-on repository covering full stack web development through practical implementations across frontend, backend, database integration, and React based application development.
 
-Each module focuses on learning core concepts through real code, structured exercises, mini projects, and system-oriented implementations
+Each module focuses on learning core concepts through real code, structured exercises, mini projects, and system-oriented implementations.
 
 ---
 
